@@ -1,0 +1,5 @@
+- 👋 ola, meu nome é @bryan
+- meu imail de contato é bryan.cordeiro@escola.pr.gov.br
+- eu estou interessado em aprender a programar novas linguagens
+- eu estou aprendendo a programar recentemente a linguagem de javaScript e scratch
+- 
